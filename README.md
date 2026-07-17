@@ -1,4 +1,4 @@
-DSA LAB WORK
+## DSA LAB WORK
 This repository contains my DSA coursework including:
 
  
