@@ -6,13 +6,16 @@ int main(){
     int low = 1 , high = n;
     while(low<=high){
         int mid = (low+high)/2;
-        int ans = mid*mid;
+        long long ans = mid*mid;
         if(ans==n){
             cout<<mid<<endl;
             break;
         }
         else if(ans>n){
             high = mid;
+        }
+        else{
+            high = mid-1;
         }
     }
     return 0;
