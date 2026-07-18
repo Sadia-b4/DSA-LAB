@@ -44,12 +44,12 @@ void print_q(Queue* q){
         printf("Queue is empty.\n");
         return ;
     }
-    printf("Front -> ");
+    printf("Front - ");
     for(int i=q->front;i<=q->rear;i++){
         printf("%d ",q->data[i]);
 
     }
-    printf("<- Rear\n");
+    printf("- Rear\n");
 }
 int main(){
     Queue q;
