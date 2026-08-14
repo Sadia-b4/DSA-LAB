@@ -39,6 +39,7 @@ In a Max Heap:
 Input:
 
 6
+
 12 23 34 45 56 66
 
 Output:
@@ -65,8 +66,8 @@ In a Min Heap:
 Input:
 
 6
+
 12 23 34 45 56 66
-50 30 40 10 20 60
 
 Output:
 
