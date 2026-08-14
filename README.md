@@ -27,7 +27,7 @@ DSA--
 ## Complexity
 Each algorithm includes its expected time and space complexity
 
-
-Keeping my DSA coursework organized and tracking my progress as I learn.
 ## Author
 SADIA BEGUM
+
+Keeping my DSA coursework organized and tracking my progress as I learn.
